@@ -36,7 +36,7 @@ def button_click():
     time.sleep(0.2)
     flash.destroy()
 
-    for i in range(100):
+    for i in range(60):
         ret, frame = cap.read()
 
         frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
@@ -49,7 +49,7 @@ def button_click():
 
         window.update()
 
-        if i == 99:
+        if i == 59:
             break
 
     ret, frame = cap.read()
