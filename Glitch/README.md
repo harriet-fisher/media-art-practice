@@ -1,5 +1,4 @@
 # media-art-practice
-<<<<<<< HEAD
 Hello! 
 
 This program is an example of glitch art as it intentionally creates unexpected
@@ -42,11 +41,6 @@ Download the zip file from github and navigate to the directory in which the
 folder resides.
 
 You need Python:
-=======
-Hello! Here's what you'll need to run this program:
-
-Python:
->>>>>>> 8ddd3b55cdef5f52cefff32635afb1d260a9f2e4
 https://docs.python-guide.org/starting/install3/osx/
 
 OpenCV:
